@@ -1,0 +1,262 @@
+C:\Users\charl\Desktop\ChessGo\Go\Go\bin\Debug\Go.exe.config
+C:\Users\charl\Desktop\ChessGo\Go\Go\bin\Debug\Go.exe
+C:\Users\charl\Desktop\ChessGo\Go\Go\bin\Debug\Go.pdb
+C:\Users\charl\Desktop\ChessGo\Go\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+C:\Users\charl\Desktop\ChessGo\Go\Go\obj\Debug\Go.Properties.Resources.resources
+C:\Users\charl\Desktop\ChessGo\Go\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+C:\Users\charl\Desktop\ChessGo\Go\Go\obj\Debug\Go.exe
+C:\Users\charl\Desktop\ChessGo\Go\Go\obj\Debug\Go.pdb
+C:\Users\charl\Desktop\ChessGo\Go\Go\obj\Debug\Go.GameWindow.resources
+C:\Users\charl\Desktop\ChessGo\Go\Go\obj\Debug\Go.Startup.resources
+C:\Users\charl\Desktop\ChessGo\Go2\Go\bin\Debug\Go.exe.config
+C:\Users\charl\Desktop\ChessGo\Go2\Go\obj\Debug\Go.exe
+C:\Users\charl\Desktop\ChessGo\Go2\Go\obj\Debug\Go.pdb
+C:\Users\charl\Desktop\ChessGo\Go2\Go\bin\Debug\Go.exe
+C:\Users\charl\Desktop\ChessGo\Go2\Go\bin\Debug\Go.pdb
+C:\Users\charl\Desktop\ChessGo\Go2\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+C:\Users\charl\Desktop\ChessGo\Go2\Go\obj\Debug\Go.GameWindow.resources
+C:\Users\charl\Desktop\ChessGo\Go2\Go\obj\Debug\Go.Properties.Resources.resources
+C:\Users\charl\Desktop\ChessGo\Go2\Go\obj\Debug\Go.Startup.resources
+C:\Users\charl\Desktop\ChessGo\Go2\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+F:\A2\EPQ\Go3\Go\bin\Debug\Go.exe.config
+F:\A2\EPQ\Go3\Go\obj\Debug\Go.exe
+F:\A2\EPQ\Go3\Go\obj\Debug\Go.pdb
+F:\A2\EPQ\Go3\Go\bin\Debug\Go.exe
+F:\A2\EPQ\Go3\Go\bin\Debug\Go.pdb
+F:\A2\EPQ\Go3\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+F:\A2\EPQ\Go3\Go\obj\Debug\Go.GameWindow.resources
+F:\A2\EPQ\Go3\Go\obj\Debug\Go.Properties.Resources.resources
+F:\A2\EPQ\Go3\Go\obj\Debug\Go.Startup.resources
+F:\A2\EPQ\Go3\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+I:\A2\EPQ\Go3.2\Go\bin\Debug\Go.exe.config
+I:\A2\EPQ\Go3.2\Go\obj\Debug\Go.exe
+I:\A2\EPQ\Go3.2\Go\obj\Debug\Go.pdb
+I:\A2\EPQ\Go3.2 - Copy\Go\bin\Debug\Go.exe.config
+I:\A2\EPQ\Go3.2 - Copy\Go\obj\Debug\Go.exe
+I:\A2\EPQ\Go3.2 - Copy\Go\obj\Debug\Go.pdb
+I:\A2\EPQ\Go3.2 - Copy\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+I:\A2\EPQ\Go3.2 - Copy\Go\obj\Debug\Go.GameWindow.resources
+I:\A2\EPQ\Go3.2 - Copy\Go\obj\Debug\Go.Properties.Resources.resources
+I:\A2\EPQ\Go3.2 - Copy\Go\obj\Debug\Go.Startup.resources
+I:\A2\EPQ\Go3.2 - Copy\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+I:\A2\EPQ\Go3.2 - Copy\Go\bin\Debug\Go.exe
+I:\A2\EPQ\Go3.2 - Copy\Go\bin\Debug\Go.pdb
+I:\A2\EPQ\Go3.2 - Copy - Copy\Go\bin\Debug\Go.exe.config
+I:\A2\EPQ\Go3.2 - Copy - Copy\Go\obj\Debug\Go.exe
+I:\A2\EPQ\Go3.2 - Copy - Copy\Go\obj\Debug\Go.pdb
+I:\A2\EPQ\Go3.2 - Copy - Copy\Go\bin\Debug\Go.exe
+I:\A2\EPQ\Go3.2 - Copy - Copy\Go\bin\Debug\Go.pdb
+I:\A2\EPQ\Go3.2 - Copy - Copy\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+I:\A2\EPQ\Go3.2 - Copy - Copy\Go\obj\Debug\Go.GameWindow.resources
+I:\A2\EPQ\Go3.2 - Copy - Copy\Go\obj\Debug\Go.Properties.Resources.resources
+I:\A2\EPQ\Go3.2 - Copy - Copy\Go\obj\Debug\Go.Startup.resources
+I:\A2\EPQ\Go3.2 - Copy - Copy\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+F:\A2\EPQ\Go3.2 - Copy - Copy\Go\bin\Debug\Go.exe.config
+F:\A2\EPQ\Go3.2 - Copy - Copy\Go\obj\Debug\Go.exe
+F:\A2\EPQ\Go3.2 - Copy - Copy\Go\obj\Debug\Go.pdb
+I:\A2\EPQ\Go3.2 - Copy - Copy - Copy\Go\bin\Debug\Go.exe.config
+I:\A2\EPQ\Go3.2 - Copy - Copy - Copy\Go\obj\Debug\Go.exe
+I:\A2\EPQ\Go3.2 - Copy - Copy - Copy\Go\obj\Debug\Go.pdb
+F:\A2\EPQ\Go3.2 - Copy - Copy - Copy\Go\bin\Debug\Go.exe.config
+F:\A2\EPQ\Go3.2 - Copy - Copy - Copy\Go\obj\Debug\Go.exe
+F:\A2\EPQ\Go3.2 - Copy - Copy - Copy\Go\obj\Debug\Go.pdb
+F:\A2\EPQ\Go3.2 - Copy - Copy - Copy\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+F:\A2\EPQ\Go3.2 - Copy - Copy - Copy\Go\obj\Debug\Go.GameWindow.resources
+F:\A2\EPQ\Go3.2 - Copy - Copy - Copy\Go\obj\Debug\Go.Properties.Resources.resources
+F:\A2\EPQ\Go3.2 - Copy - Copy - Copy\Go\obj\Debug\Go.Startup.resources
+F:\A2\EPQ\Go3.2 - Copy - Copy - Copy\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+F:\A2\EPQ\Go3.2 - Copy - Copy - Copy\Go\bin\Debug\Go.exe
+F:\A2\EPQ\Go3.2 - Copy - Copy - Copy\Go\bin\Debug\Go.pdb
+I:\A2\EPQ\Go3.2 - Copy - Copy - Copy\Go\bin\Debug\Go.exe
+I:\A2\EPQ\Go3.2 - Copy - Copy - Copy\Go\bin\Debug\Go.pdb
+I:\A2\EPQ\Go3.2 - Copy - Copy - Copy\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+I:\A2\EPQ\Go3.2 - Copy - Copy - Copy\Go\obj\Debug\Go.GameWindow.resources
+I:\A2\EPQ\Go3.2 - Copy - Copy - Copy\Go\obj\Debug\Go.Properties.Resources.resources
+I:\A2\EPQ\Go3.2 - Copy - Copy - Copy\Go\obj\Debug\Go.Startup.resources
+I:\A2\EPQ\Go3.2 - Copy - Copy - Copy\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+I:\A2\EPQ\Go4 the win\Go\bin\Debug\Go.exe.config
+I:\A2\EPQ\Go4 the win\Go\obj\Debug\Go.exe
+I:\A2\EPQ\Go4 the win\Go\obj\Debug\Go.pdb
+I:\A2\EPQ\Go4 the win\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+I:\A2\EPQ\Go4 the win\Go\obj\Debug\Go.GameWindow.resources
+I:\A2\EPQ\Go4 the win\Go\obj\Debug\Go.Properties.Resources.resources
+I:\A2\EPQ\Go4 the win\Go\obj\Debug\Go.Startup.resources
+I:\A2\EPQ\Go4 the win\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+I:\A2\EPQ\Go4 the win\Go\bin\Debug\Go.exe
+I:\A2\EPQ\Go4 the win\Go\bin\Debug\Go.pdb
+F:\A2\EPQ\Go4 the win\Go\bin\Debug\Go.exe.config
+F:\A2\EPQ\Go4 the win\Go\obj\Debug\Go.exe
+F:\A2\EPQ\Go4 the win\Go\obj\Debug\Go.pdb
+F:\A2\EPQ\Go4 the win\Go\bin\Debug\Go.exe
+F:\A2\EPQ\Go4 the win\Go\bin\Debug\Go.pdb
+F:\A2\EPQ\Go4 the win\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+F:\A2\EPQ\Go4 the win\Go\obj\Debug\Go.GameWindow.resources
+F:\A2\EPQ\Go4 the win\Go\obj\Debug\Go.Properties.Resources.resources
+F:\A2\EPQ\Go4 the win\Go\obj\Debug\Go.Startup.resources
+F:\A2\EPQ\Go4 the win\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+I:\A2\EPQ\Go4 the win - Copy\Go\bin\Debug\Go.exe.config
+I:\A2\EPQ\Go4 the win - Copy\Go\obj\Debug\Go.exe
+I:\A2\EPQ\Go4 the win - Copy\Go\obj\Debug\Go.pdb
+I:\A2\EPQ\Go4 the win - Copy\Go\bin\Debug\Go.exe
+I:\A2\EPQ\Go4 the win - Copy\Go\bin\Debug\Go.pdb
+I:\A2\EPQ\Go4 the win - Copy\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+I:\A2\EPQ\Go4 the win - Copy\Go\obj\Debug\Go.GameWindow.resources
+I:\A2\EPQ\Go4 the win - Copy\Go\obj\Debug\Go.Properties.Resources.resources
+I:\A2\EPQ\Go4 the win - Copy\Go\obj\Debug\Go.Startup.resources
+I:\A2\EPQ\Go4 the win - Copy\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+C:\Users\charl\Desktop\Go4 the win - Copy\Go\bin\Debug\Go.exe.config
+C:\Users\charl\Desktop\Go4 the win - Copy\Go\obj\Debug\Go.exe
+C:\Users\charl\Desktop\Go4 the win - Copy\Go\obj\Debug\Go.pdb
+C:\Users\charl\Desktop\Go4 the win - Copy\Go\bin\Debug\Go.exe
+C:\Users\charl\Desktop\Go4 the win - Copy\Go\bin\Debug\Go.pdb
+C:\Users\charl\Desktop\Go4 the win - Copy\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+C:\Users\charl\Desktop\Go4 the win - Copy\Go\obj\Debug\Go.GameWindow.resources
+C:\Users\charl\Desktop\Go4 the win - Copy\Go\obj\Debug\Go.Properties.Resources.resources
+C:\Users\charl\Desktop\Go4 the win - Copy\Go\obj\Debug\Go.Startup.resources
+C:\Users\charl\Desktop\Go4 the win - Copy\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+C:\Users\charl\Desktop\Go adding Passing\Go\bin\Debug\Go.exe.config
+C:\Users\charl\Desktop\Go adding Passing\Go\obj\Debug\Go.exe
+C:\Users\charl\Desktop\Go adding Passing\Go\obj\Debug\Go.pdb
+C:\Users\charl\Desktop\Go adding Passing\Go\bin\Debug\Go.exe
+C:\Users\charl\Desktop\Go adding Passing\Go\bin\Debug\Go.pdb
+C:\Users\charl\Desktop\Go adding Passing\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+C:\Users\charl\Desktop\Go adding Passing\Go\obj\Debug\Go.GameWindow.resources
+C:\Users\charl\Desktop\Go adding Passing\Go\obj\Debug\Go.Properties.Resources.resources
+C:\Users\charl\Desktop\Go adding Passing\Go\obj\Debug\Go.Startup.resources
+C:\Users\charl\Desktop\Go adding Passing\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+C:\Users\charl\Desktop\Go iterations\Go adding Passing (history addding)\Go\bin\Debug\Go.exe.config
+C:\Users\charl\Desktop\Go iterations\Go adding Passing (history addding)\Go\obj\Debug\Go.exe
+C:\Users\charl\Desktop\Go iterations\Go adding Passing (history addding)\Go\obj\Debug\Go.pdb
+C:\Users\charl\Desktop\Go iterations\Go adding Passing (history addding)\Go\bin\Debug\Go.exe
+C:\Users\charl\Desktop\Go iterations\Go adding Passing (history addding)\Go\bin\Debug\Go.pdb
+C:\Users\charl\Desktop\Go iterations\Go adding Passing (history addding)\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+C:\Users\charl\Desktop\Go iterations\Go adding Passing (history addding)\Go\obj\Debug\Go.GameWindow.resources
+C:\Users\charl\Desktop\Go iterations\Go adding Passing (history addding)\Go\obj\Debug\Go.Properties.Resources.resources
+C:\Users\charl\Desktop\Go iterations\Go adding Passing (history addding)\Go\obj\Debug\Go.Startup.resources
+C:\Users\charl\Desktop\Go iterations\Go adding Passing (history addding)\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+I:\A2\EPQ\Go V5\Go\bin\Debug\Go.exe.config
+I:\A2\EPQ\Go V5\Go\obj\Debug\Go.exe
+I:\A2\EPQ\Go V5\Go\obj\Debug\Go.pdb
+I:\A2\EPQ\Go V5\Go\bin\Debug\Go.exe
+I:\A2\EPQ\Go V5\Go\bin\Debug\Go.pdb
+I:\A2\EPQ\Go V5\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+I:\A2\EPQ\Go V5\Go\obj\Debug\Go.GameWindow.resources
+I:\A2\EPQ\Go V5\Go\obj\Debug\Go.Properties.Resources.resources
+I:\A2\EPQ\Go V5\Go\obj\Debug\Go.Startup.resources
+I:\A2\EPQ\Go V5\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+I:\A2\EPQ\Go V5.1\Go\bin\Debug\Go.exe.config
+I:\A2\EPQ\Go V5.1\Go\obj\Debug\Go.exe
+I:\A2\EPQ\Go V5.1\Go\obj\Debug\Go.pdb
+I:\A2\EPQ\Go V5.1\Go\bin\Debug\Go.exe
+I:\A2\EPQ\Go V5.1\Go\bin\Debug\Go.pdb
+I:\A2\EPQ\Go V5.1\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+I:\A2\EPQ\Go V5.1\Go\obj\Debug\Go.GameWindow.resources
+I:\A2\EPQ\Go V5.1\Go\obj\Debug\Go.Properties.Resources.resources
+I:\A2\EPQ\Go V5.1\Go\obj\Debug\Go.Startup.resources
+I:\A2\EPQ\Go V5.1\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+F:\A2\EPQ\Go V5.1\Go\bin\Debug\Go.exe.config
+F:\A2\EPQ\Go V5.1\Go\obj\Debug\Go.exe
+F:\A2\EPQ\Go V5.1\Go\obj\Debug\Go.pdb
+C:\Users\Charlie\Desktop\Go V5.2\Go\bin\Debug\Go.exe.config
+C:\Users\Charlie\Desktop\Go V5.2\Go\obj\Debug\Go.exe
+C:\Users\Charlie\Desktop\Go V5.2\Go\obj\Debug\Go.pdb
+C:\Users\Charlie\Desktop\Go V5.2\Go\bin\Debug\Go.exe
+C:\Users\Charlie\Desktop\Go V5.2\Go\bin\Debug\Go.pdb
+C:\Users\Charlie\Desktop\Go V5.2\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Desktop\Go V5.2\Go\obj\Debug\Go.GameWindow.resources
+C:\Users\Charlie\Desktop\Go V5.2\Go\obj\Debug\Go.Properties.Resources.resources
+C:\Users\Charlie\Desktop\Go V5.2\Go\obj\Debug\Go.Startup.resources
+C:\Users\Charlie\Desktop\Go V5.2\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+I:\A2\EPQ\Go V5.2\Go\bin\Debug\Go.exe.config
+I:\A2\EPQ\Go V5.2\Go\obj\Debug\Go.exe
+I:\A2\EPQ\Go V5.2\Go\obj\Debug\Go.pdb
+I:\A2\EPQ\Go V5.2\Go\bin\Debug\Go.exe
+I:\A2\EPQ\Go V5.2\Go\bin\Debug\Go.pdb
+I:\A2\EPQ\Go V5.2\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+I:\A2\EPQ\Go V5.2\Go\obj\Debug\Go.GameWindow.resources
+I:\A2\EPQ\Go V5.2\Go\obj\Debug\Go.Properties.Resources.resources
+I:\A2\EPQ\Go V5.2\Go\obj\Debug\Go.Startup.resources
+I:\A2\EPQ\Go V5.2\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+I:\A2\EPQ\Go V5.3 NEW IMPROVED\Go\bin\Debug\Go.exe.config
+I:\A2\EPQ\Go V5.3 NEW IMPROVED\Go\obj\Debug\Go.exe
+I:\A2\EPQ\Go V5.3 NEW IMPROVED\Go\obj\Debug\Go.pdb
+I:\A2\EPQ\Go V5.3 NEW IMPROVED\Go\bin\Debug\Go.exe
+I:\A2\EPQ\Go V5.3 NEW IMPROVED\Go\bin\Debug\Go.pdb
+I:\A2\EPQ\Go V5.3 NEW IMPROVED\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+I:\A2\EPQ\Go V5.3 NEW IMPROVED\Go\obj\Debug\Go.GameWindow.resources
+I:\A2\EPQ\Go V5.3 NEW IMPROVED\Go\obj\Debug\Go.Properties.Resources.resources
+I:\A2\EPQ\Go V5.3 NEW IMPROVED\Go\obj\Debug\Go.Startup.resources
+I:\A2\EPQ\Go V5.3 NEW IMPROVED\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+F:\A2\EPQ\Go V5.3 NEW IMPROVED\Go\bin\Debug\Go.exe.config
+F:\A2\EPQ\Go V5.3 NEW IMPROVED\Go\obj\Debug\Go.exe
+F:\A2\EPQ\Go V5.3 NEW IMPROVED\Go\obj\Debug\Go.pdb
+F:\A2\EPQ\Go V5.3 NEW IMPROVED\Go\bin\Debug\Go.exe
+F:\A2\EPQ\Go V5.3 NEW IMPROVED\Go\bin\Debug\Go.pdb
+F:\A2\EPQ\Go V5.3 NEW IMPROVED\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+F:\A2\EPQ\Go V5.3 NEW IMPROVED\Go\obj\Debug\Go.GameWindow.resources
+F:\A2\EPQ\Go V5.3 NEW IMPROVED\Go\obj\Debug\Go.Properties.Resources.resources
+F:\A2\EPQ\Go V5.3 NEW IMPROVED\Go\obj\Debug\Go.Startup.resources
+F:\A2\EPQ\Go V5.3 NEW IMPROVED\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+I:\A2\EPQ\Go V5.4 stupid cont\Go\bin\Debug\Go.exe.config
+I:\A2\EPQ\Go V5.4 stupid cont\Go\obj\Debug\Go.exe
+I:\A2\EPQ\Go V5.4 stupid cont\Go\obj\Debug\Go.pdb
+I:\A2\EPQ\Go V5.4 stupid cont\Go\bin\Debug\Go.exe
+I:\A2\EPQ\Go V5.4 stupid cont\Go\bin\Debug\Go.pdb
+I:\A2\EPQ\Go V5.4 stupid cont\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+I:\A2\EPQ\Go V5.4 stupid cont\Go\obj\Debug\Go.GameWindow.resources
+I:\A2\EPQ\Go V5.4 stupid cont\Go\obj\Debug\Go.Properties.Resources.resources
+I:\A2\EPQ\Go V5.4 stupid cont\Go\obj\Debug\Go.Startup.resources
+I:\A2\EPQ\Go V5.4 stupid cont\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+I:\A2\EPQ\Go V5.5\Go\bin\Debug\Go.exe.config
+I:\A2\EPQ\Go V5.5\Go\obj\Debug\Go.exe
+I:\A2\EPQ\Go V5.5\Go\obj\Debug\Go.pdb
+I:\A2\EPQ\Go V5.5\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+I:\A2\EPQ\Go V5.5\Go\obj\Debug\Go.GameWindow.resources
+I:\A2\EPQ\Go V5.5\Go\obj\Debug\Go.Properties.Resources.resources
+I:\A2\EPQ\Go V5.5\Go\obj\Debug\Go.Startup.resources
+I:\A2\EPQ\Go V5.5\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+I:\A2\EPQ\Go V5.5\Go\bin\Debug\Go.exe
+I:\A2\EPQ\Go V5.5\Go\bin\Debug\Go.pdb
+I:\A2\EPQ\Go V5.5 - Copy\Go\bin\Debug\Go.exe.config
+I:\A2\EPQ\Go V5.5 - Copy\Go\obj\Debug\Go.exe
+I:\A2\EPQ\Go V5.5 - Copy\Go\obj\Debug\Go.pdb
+I:\A2\EPQ\Go V5.5 - Copy\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+I:\A2\EPQ\Go V5.5 - Copy\Go\obj\Debug\Go.GameWindow.resources
+I:\A2\EPQ\Go V5.5 - Copy\Go\obj\Debug\Go.Properties.Resources.resources
+I:\A2\EPQ\Go V5.5 - Copy\Go\obj\Debug\Go.Startup.resources
+I:\A2\EPQ\Go V5.5 - Copy\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+I:\A2\EPQ\Go V5.5 - Copy\Go\bin\Debug\Go.exe
+I:\A2\EPQ\Go V5.5 - Copy\Go\bin\Debug\Go.pdb
+I:\A2\EPQ\Go V5.5 array exp\Go\bin\Debug\Go.exe.config
+I:\A2\EPQ\Go V5.5 array exp\Go\obj\Debug\Go.exe
+I:\A2\EPQ\Go V5.5 array exp\Go\obj\Debug\Go.pdb
+I:\A2\EPQ\Go V5.5 array exp - efficiency improv\Go\bin\Debug\Go.exe.config
+I:\A2\EPQ\Go V5.5 array exp - efficiency improv\Go\obj\Debug\Go.exe
+I:\A2\EPQ\Go V5.5 array exp - efficiency improv\Go\obj\Debug\Go.pdb
+I:\A2\EPQ\Go V5.5 array exp - efficiency improv\Go\bin\Debug\Go.exe
+I:\A2\EPQ\Go V5.5 array exp - efficiency improv\Go\bin\Debug\Go.pdb
+I:\A2\EPQ\Go V5.5 array exp - efficiency improv\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+I:\A2\EPQ\Go V5.5 array exp - efficiency improv\Go\obj\Debug\Go.GameWindow.resources
+I:\A2\EPQ\Go V5.5 array exp - efficiency improv\Go\obj\Debug\Go.Properties.Resources.resources
+I:\A2\EPQ\Go V5.5 array exp - efficiency improv\Go\obj\Debug\Go.Startup.resources
+I:\A2\EPQ\Go V5.5 array exp - efficiency improv\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+I:\A2\EPQ\Go V6 fixing scoring\Go\bin\Debug\Go.exe.config
+I:\A2\EPQ\Go V6 fixing scoring\Go\obj\Debug\Go.exe
+I:\A2\EPQ\Go V6 fixing scoring\Go\obj\Debug\Go.pdb
+I:\A2\EPQ\Go V6 fixing scoring\Go\bin\Debug\Go.exe
+I:\A2\EPQ\Go V6 fixing scoring\Go\bin\Debug\Go.pdb
+I:\A2\EPQ\Go V6 fixing scoring\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+I:\A2\EPQ\Go V6 fixing scoring\Go\obj\Debug\Go.GameWindow.resources
+I:\A2\EPQ\Go V6 fixing scoring\Go\obj\Debug\Go.Properties.Resources.resources
+I:\A2\EPQ\Go V6 fixing scoring\Go\obj\Debug\Go.Startup.resources
+I:\A2\EPQ\Go V6 fixing scoring\Go\obj\Debug\Go.csproj.GenerateResource.Cache
+I:\A2\EPQ\Go V7 new score\Go\bin\Debug\Go.exe.config
+I:\A2\EPQ\Go V7 new score\Go\obj\Debug\Go.exe
+I:\A2\EPQ\Go V7 new score\Go\obj\Debug\Go.pdb
+I:\A2\EPQ\Go V7 new score\Go\bin\Debug\Go.exe
+I:\A2\EPQ\Go V7 new score\Go\bin\Debug\Go.pdb
+I:\A2\EPQ\Go V7 new score\Go\obj\Debug\Go.csprojResolveAssemblyReference.cache
+I:\A2\EPQ\Go V7 new score\Go\obj\Debug\Go.GameWindow.resources
+I:\A2\EPQ\Go V7 new score\Go\obj\Debug\Go.Properties.Resources.resources
+I:\A2\EPQ\Go V7 new score\Go\obj\Debug\Go.Startup.resources
+I:\A2\EPQ\Go V7 new score\Go\obj\Debug\Go.csproj.GenerateResource.Cache
